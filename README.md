@@ -16,8 +16,6 @@ IntelliJ IDEA CE, Bukkit API, Maven
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Bukkit API](https://dev.bukkit.org/)
 - [Paper Dev Docs](https://docs.papermc.io/paper/dev)
 
