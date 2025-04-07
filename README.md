@@ -1,8 +1,11 @@
 # Overview
 # 6 fun and useful plugins to add to your server
 **Chunk Claim** - Lets users claim chunks so no one else can interact with blocks in that chunk
+
 **Server Auth** - Sets a password that all users must enter when they log on - useful for cracked servers
+
 **Chest Death** - When a player dies thier inventory is stored in a chest instead of being dropped on the ground
+
 
 **[Magic Staffs](https://github.com/LilyBrown17/MagicStaffsMinecraft)**
 
