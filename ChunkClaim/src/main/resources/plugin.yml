@@ -1,0 +1,12 @@
+name: chunkclaim
+version: '1.0-SNAPSHOT'
+main: me.cse310.chunkClaim.ChunkClaimPlugin
+api-version: '1.21'
+
+commands:
+  claimchunk:
+    description: Claim the current chunk
+    usage: /<command>
+  unclaimchunk:
+    description: Unclaim the current chunk
+    usage: /<command>

@@ -1,0 +1,4 @@
+name: ServerAuth
+version: '1.0-SNAPSHOT'
+main: me.cse310.serverAuth.ServerAuth
+api-version: '1.21'

@@ -1,0 +1,4 @@
+name: EnderStaff
+version: '1.0-SNAPSHOT'
+main: me.boomfanficalatta.enderStaff.EnderStaff
+api-version: '1.21'

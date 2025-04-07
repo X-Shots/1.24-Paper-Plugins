@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tpp:jar">
+    <output-path>$USER_HOME$/Desktop/plugins</output-path>
+    <root id="archive" name="tpp.jar">
+      <element id="module-output" name="tpp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.1.10/kotlin-stdlib-jdk7-2.1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/26.0.1/annotations-26.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.1.10/kotlin-stdlib-jdk8-2.1.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

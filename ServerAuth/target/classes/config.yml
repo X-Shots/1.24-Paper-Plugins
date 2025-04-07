@@ -1,0 +1,3 @@
+password: "CSE310"
+max_attempts: 10
+bypass_permission: "auth.bypass"

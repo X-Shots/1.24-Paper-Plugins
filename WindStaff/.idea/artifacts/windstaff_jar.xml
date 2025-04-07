@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="windstaff:jar">
+    <output-path>$PROJECT_DIR$/../../Paper 1.21 Minecraft Server/plugins</output-path>
+    <root id="archive" name="windstaff.jar">
+      <element id="module-output" name="windstaff" />
+    </root>
+  </artifact>
+</component>

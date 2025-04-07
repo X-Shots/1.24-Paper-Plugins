@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlameStaff:jar">
+    <output-path>$PROJECT_DIR$/../../Paper 1.21 Minecraft Server/plugins</output-path>
+    <root id="archive" name="FlameStaff.jar">
+      <element id="module-output" name="FlameStaff" />
+    </root>
+  </artifact>
+</component>

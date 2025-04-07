@@ -1,0 +1,4 @@
+name: FlameStaff
+version: '1.0-SNAPSHOT'
+main: me.boomfanficalatta.flameStaff.FlameStaff
+api-version: '1.21'

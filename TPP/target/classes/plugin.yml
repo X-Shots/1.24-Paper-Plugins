@@ -1,0 +1,12 @@
+name: TeleportPlusPlus
+main: me.cse310.tPP.TeleportPlusPlus
+version: 1.0
+api-version: 1.16
+commands:
+  TPP:
+    description: Manage and teleport to saved locations.
+    usage: /TPP <save [name] | [name] | list>
+    permission: teleportplusplus.use
+permissions:
+  teleportplusplus.use:
+    default: true
